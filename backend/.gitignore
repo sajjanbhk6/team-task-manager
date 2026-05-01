@@ -1,0 +1,10 @@
+node_modules/
+# Keep environment variables out of version control
+.env
+
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+team_task_manager.db
